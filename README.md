@@ -19,7 +19,7 @@ Aplikasi ini dirancang untuk mendukung kegiatan:
 
 ## 🚀 Demo Langsung
 
-▶️ **[Buka Aplikasi di Google Earth Engine](https://code.earthengine.google.com/87ca49c9208ed13d499d3347521b7e36)**
+▶️ **[Buka Simulasi WebGIS Sederhana dari Google Earth Engine]([https://code.earthengine.google.com/87ca49c9208ed13d499d3347521b7e36](https://rosyidpaundra.users.earthengine.app/view/simulasi-pj-pesisir))**
 
 > *Akses memerlukan akun Google Earth Engine (gratis untuk akademisi & peneliti)*
 
