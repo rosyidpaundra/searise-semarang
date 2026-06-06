@@ -3,6 +3,8 @@
 
 > **Platform:** Google Earth Engine · **Area Kajian:** Kota Semarang, Indonesia · **Status:** Active
 
+<img width="1363" height="691" alt="image" src="https://github.com/user-attachments/assets/c1d37669-c9b6-476d-a5fe-b53b0a20d46a" />
+
 ---
 
 ## 📌 Deskripsi
