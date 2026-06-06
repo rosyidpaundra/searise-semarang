@@ -126,23 +126,7 @@ Ide pengembangan yang mungkin:
 
 ---
 
-## 📄 Lisensi
 
-Proyek ini dirilis di bawah lisensi **MIT License** — bebas digunakan, dimodifikasi, dan didistribusikan dengan atribusi.
-
----
-
-## 📬 Kontak & Sitasi
-
-Jika menggunakan aplikasi ini dalam publikasi ilmiah, mohon sertakan sitasi:
-
-```
-[Nama Anda]. (2025). SeaRise Semarang: Simulasi Interaktif Kenaikan 
-Muka Air Laut dan Penurunan Tanah berbasis Google Earth Engine. 
-GitHub. https://github.com/[username]/searise-semarang
-```
-
----
 
 <div align="center">
 
