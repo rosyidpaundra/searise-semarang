@@ -21,7 +21,7 @@ Aplikasi ini dirancang untuk mendukung kegiatan:
 
 ## 🚀 Demo Langsung
 <img width="1363" height="691" alt="image" src="https://github.com/user-attachments/assets/c1d37669-c9b6-476d-a5fe-b53b0a20d46a" />
-▶️ **Buka WebGIS dengan link berikut https://rosyidpaundra.users.earthengine.app/view/simulasi-pj-pesisir** 
+▶️ Buka WebGIS dengan link berikut https://rosyidpaundra.users.earthengine.app/view/simulasi-pj-pesisir 
 
 > *Akses memerlukan akun Google Earth Engine (gratis untuk akademisi & peneliti)*
 
