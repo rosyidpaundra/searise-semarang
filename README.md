@@ -137,11 +137,7 @@ Ide pengembangan yang mungkin:
 [![Area](https://img.shields.io/badge/Area-Semarang%2C%20Indonesia-red?style=flat-square)](https://code.earthengine.google.com/87ca49c9208ed13d499d3347521b7e36)
 
 </div>
-
-
-Berikut adalah hasil terjemahan lengkap file `README.md` ke dalam bahasa Inggris yang siap digunakan:
-
----
+Berikut adalah kode Markdown lengkap dengan format, *badges*, LaTeX formula, dan struktur yang **persis** sama seperti di repository [searise-semarang](https://github.com/rosyidpaundra/searise-semarang/blob/main/README.md):
 
 ```markdown
 # 🌊 SeaRise Semarang
@@ -150,22 +146,29 @@ Berikut adalah hasil terjemahan lengkap file `README.md` ke dalam bahasa Inggris
 
 *Platform:* Google Earth Engine · *Study Area:* Semarang City, Indonesia · *Status:* Active
 
+---
+
 ## 📌 Description
 
-*SeaRise Semarang* is a *Google Earth Engine (GEE)* based application that visualizes the combined impact of *sea level rise* and *land subsidence* on the Semarang City area temporally and spatially.
+**SeaRise Semarang** is a Google Earth Engine (GEE) based application that visualizes the combined impact of **sea level rise** and **land subsidence** on the Semarang City area temporally and spatially.
 
 This application is designed to support:
-- 🔬 *Scientific research* on disasters and climate change
-- 🏛️ *Spatial planning* based on tidal flood risks
-- 📢 *Public communication* regarding the threats of sea level rise
-- 🎓 *Education* in geography and earth sciences
+* 🔬 **Scientific research** on disasters and climate change
+* 🏛️ **Spatial planning** based on tidal flood risks
+* 📢 **Public communication** regarding the threats of sea level rise
+* 🎓 **Education** in geography and earth sciences
+
+---
 
 ## 🚀 Live Demo
 
-[![image](https://img.shields.io/badge/WebGIS-Open_App-blue?style=for-the-badge&logo=googleearthengine)](https://rosyidpaundra.users.earthengine.app/view/simulasi-pj-pesisir)
+[![WebGIS App](https://img.shields.io/badge/WebGIS-Open_App-blue?style=for-the-badge&logo=googleearthengine)](https://rosyidpaundra.users.earthengine.app/view/simulasi-pj-pesisir)
+
 *▶️ Open the WebGIS application using the link above.*
 
 *(Access requires a Google Earth Engine account — free for academics & researchers)*
+
+---
 
 ## ✨ Key Features
 
@@ -178,6 +181,8 @@ This application is designed to support:
 | 💧 **Real-time Inundated Area** | Live visualization of areas at risk of flooding |
 | 🔑 **Interactive Legend** | Elevation legend and inundated area legend |
 
+---
+
 ## 🧮 Methodology
 
 The simulation uses a simple bathymetry approach (*bathtub model*) with the following formula:
@@ -187,10 +192,12 @@ $$\text{Total Effect (m)} = \left(\frac{\text{Sea Level Rise [mm/yr]}}{1000} \ti
 An area is marked as **inundated** if its elevation value is $\le \text{Total Effect}$.
 
 **Data Used:**
-- 🛰️ `NASA/NASADEM_HGT/001` — Digital Elevation Model with ~30-meter resolution
-- 📐 Study area: Bounding box of Semarang City ($110.32^\circ\text{E} - 110.51^\circ\text{E}$, $7.07^\circ\text{S} - 6.89^\circ\text{S}$)
+* 🛰️ `NASA/NASADEM_HGT/001` — Digital Elevation Model with ~30-meter resolution
+* 📐 Study area: Bounding box of Semarang City ($110.32^\circ\text{E} - 110.51^\circ\text{E}$, $7.07^\circ\text{S} - 6.89^\circ\text{S}$)
 
 > ⚠️ **Note:** The bathtub model does not account for dynamic hydrological factors (such as drainage, seawalls, etc.). The simulation results are indicative and do not replace detailed technical assessments.
+
+---
 
 ## 🗂️ Code Structure
 
@@ -231,6 +238,8 @@ $$\downarrow$$
 
 6. Elevation Legend + Inundated Area Legend
 
+---
+
 ## 🖥️ How to Use
 
 ### Option A — Run Script Directly
@@ -245,11 +254,15 @@ $$\downarrow$$
 2. Create a new script at [code.earthengine.google.com](https://code.earthengine.google.com)
 3. Paste the code and click **Run**
 
+---
+
 ## 📊 Scientific Context
 
 Semarang is one of the cities in Indonesia with the highest rates of land subsidence, reaching **7–25 cm/year** in several locations (Abidin et al., 2011; Chaussard et al., 2013). Combined with sea level rise projections due to global climate change, the northern coastal region of Semarang faces severe risks of permanent inundation over the coming decades.
 
 This simulation helps visualize various scenarios based on differing rate assumptions to support evidence-based policy discussions.
+
+---
 
 ## 🤝 Contributing
 
